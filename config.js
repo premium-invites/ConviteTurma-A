@@ -1,13 +1,13 @@
 window.CONFIG = {
-  "nome": "Formatura do ABC — CEPA | Turma A",
+  "nome": "Formatura do ABC — CEPA | Turma B",
   "mapa": "https://www.google.com/maps/place/Mistura+Fina+Buffet/@-7.5771347,-39.2889753,17z/data=!3m1!4b1!4m6!3m5!1s0x7a107b0b1000011:0xa4eb2e3f56c273c4!8m2!3d-7.5771347!4d-39.2889753!16s%2Fg%2F11hbfj045b?hl=pt_BR",
   "arquivos": {
-    "opening": "assets/opening.mp4",
-    "openingPoster": "assets/opening.webp",
+    "opening": "../assets/opening.mp4",
+    "openingPoster": "../assets/opening.webp",
     "main": "assets/video.mp4",
     "mainPoster": "assets/principal.webp",
-    "manual": "assets/manual.webp",
-    "music": "assets/musica.mp3"
+    "manual": "../assets/manual.webp",
+    "music": "../assets/musica.mp3"
   },
   "telas": {
     "video": true,
